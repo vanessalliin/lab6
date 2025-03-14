@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/hello-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/margherita-pizza/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/pepperoni-pizza/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/vlin/
+        </loc>
+    </url>
+</urlset>
