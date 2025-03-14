@@ -5,3 +5,5 @@
 [14-Mar-2025 21:00:19 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-meta.php on line 31
 [14-Mar-2025 21:00:26 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 71
 [14-Mar-2025 21:00:37 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 67
+[14-Mar-2025 21:01:56 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 67
+[14-Mar-2025 21:02:00 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 50
