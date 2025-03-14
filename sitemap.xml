@@ -17,12 +17,47 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/pasta-at-vanessas-italian-takeout/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/pizza-at-vanessas-italian-takeout/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/drinks-at-vanessas-italian-takeout/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products/margherita-pizza/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/products/pepperoni-pizza/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/spaghetti-bolognese-pasta/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/fettuccine-alfredo-pasta/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/pepsi-drink/
         </loc>
     </url>
     <url>
